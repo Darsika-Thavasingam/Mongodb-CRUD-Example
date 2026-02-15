@@ -1,8 +1,12 @@
 Node.js CRUD Application – MongoDB vs Mongoose
-📌 Project Overview
+
+Project Overview
+
 This project demonstrates CRUD (Create, Read, Update, Delete) operations using Node.js with two different approaches:
+
 1.	MongoDB Native Driver – direct database operations
 2.	Mongoose ODM – schema-based modeling and abstraction
+   
 I built this project during the middle of my MongoDB learning process to reinforce concepts through hands-on practice and to understand the difference between native MongoDB operations and Mongoose.
 
 🛠 Technologies Used
@@ -15,14 +19,14 @@ I built this project during the middle of my MongoDB learning process to reinfor
 📂 Project Structure
 nodejs-crud-comparison/
 │
-├── native-mongodb/       # CRUD using MongoDB native driver
+├── native-mongodb/      
 │   ├── app.js
 │   ├── db.js
 │   └── ...
 │
-├── mongoose-version/     # CRUD using Mongoose ODM
+├── mongoose-version/    
 │   ├── app.js
-│   ├── models/           # Mongoose schemas
+│   ├── models/           
 │   └── ...
 │
 └── README.md
