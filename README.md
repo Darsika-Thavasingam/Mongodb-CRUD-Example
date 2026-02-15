@@ -45,16 +45,21 @@ nodejs-crud-comparison/
 •	Using Handlebars for templating
 
 🚀 How to Run
+
 1.	Clone the repository:
 git clone https://github.com/YOUR_USERNAME/nodejs-crud-comparison.git
+
 2.	Navigate to the version you want to run:
 cd native-mongodb
-# OR
+OR
 cd mongoose-version
+
 3.	Install dependencies:
 npm install
+
 4.	Start the server:
 node app.js
+
 5.	Open your browser:
 http://localhost:3000
 
