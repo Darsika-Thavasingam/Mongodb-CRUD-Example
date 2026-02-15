@@ -51,7 +51,7 @@ nodejs-crud-comparison/
 🚀 How to Run
 
 1.	Clone the repository:
-git clone https://github.com/YOUR_USERNAME/nodejs-crud-comparison.git
+git clone https://github.com/Darsika-Thavasingam/Mongodb-CRUD-Example.git
 
 2.	Navigate to the version you want to run:
 cd native-mongodb
